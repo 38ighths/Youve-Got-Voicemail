@@ -1,0 +1,4 @@
+tasks:
+  - init: npm run start
+image:
+  file: .gitpod.Dockerfile
